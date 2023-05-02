@@ -8,6 +8,8 @@ Abstract: The development of rational techniques to discover new mechanically re
 
 Publication: Z. Qin, L. Wu, H. Sun, S. Huo, T. Ma, E. Lim, P.-Y. Chen, B. Marelli, M.J. Buehler, Artificial intelligence method to design and fold alpha-helical structural proteins from the primary amino acid sequence, Extreme Mechanics Letters, Vol. 36, 100652, 2020. https://doi.org/10.1016/j.eml.2020.100652.
 
+Dataset: https://doi.org/10.5281/zenodo.7885535 
+
 ## Requisites
 
 python>=3.6.
